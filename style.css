@@ -39,3 +39,13 @@ form svg:hover{
     font-style: bold;
     color: #453632;
 }
+.container .cards-produtos{
+    text-align: -webkit-center;
+}
+footer{
+    text-align: -webkit-center;
+}
+footer form svg{
+    margin: 5px;
+    color: #212529;
+}
